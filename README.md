@@ -1,4 +1,4 @@
-# AI/ML Club Recruitment Tasks — Aadya Jain
+# AI/ML Club Recruitment Tasks — ARYAN SHARMA
 
 Solutions to the three recruitment tasks. Each folder is self-contained with its code, charts, and a `README.md` holding the written answer.
 
